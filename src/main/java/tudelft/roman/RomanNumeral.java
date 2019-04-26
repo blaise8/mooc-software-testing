@@ -34,4 +34,9 @@ public class RomanNumeral {
         return convertedNumber;
 
     }
+
+    public int myConvert(String romanNumeral) {
+        // your implementation here
+        return 0;
+    }
 }
